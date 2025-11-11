@@ -1,4 +1,4 @@
-# minimal_diary
+# Yumelist
 
 A new Flutter project.
 
